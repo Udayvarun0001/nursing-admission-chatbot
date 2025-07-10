@@ -89,3 +89,8 @@ body {
 .chat-input button:hover {
   background: #4338ca;
 }
+
+.typing {
+  font-style: italic;
+  opacity: 0.6;
+}
