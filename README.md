@@ -1,3 +1,5 @@
+[Download My Project Report (PDF)](myprojectreport.pdf)
+
 ** Project Overview: LiaPlus Nursing Admission Chatbot**
 The LiaPlus Nursing Admission Chatbot is a web-based virtual assistant designed to guide prospective students through the B.Sc Nursing admission process in a human-like, conversational flow. Built with a simple interface and intelligent logic, it covers everything from eligibility and fees to scholarships and application support. The chatbot understands natural language inputs in both English and Hindi and gives tailored responses based on user interaction.
 
